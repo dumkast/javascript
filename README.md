@@ -1,3 +1,4 @@
+#Добавим первую строку в файл
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
