@@ -1,5 +1,6 @@
 #Изменение 1 в файле
 #Изменение 2 в файле
+#Изменение 3 в файле
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
