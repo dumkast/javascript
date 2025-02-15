@@ -1,3 +1,4 @@
 Hello!
 This is configuration file.
+Add here some information:
 
